@@ -5,7 +5,7 @@ extended with synthetic data support for:
 
 **Corpus Augmentation for Sign Language Translation via LLM-Guided Video Stitching**  
 Zsolt Robotka, Ádám Rák, Jalal Al-Afandi Jr., András Horváth, György Cserey  
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.11925-b31b1b.svg)](https://arxiv.org/abs/2606.11925)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Data generation code: https://github.com/robizso/slt-datagen
@@ -54,8 +54,8 @@ If you use this repository, please cite both the original sltbaselines paper and
   title   = {Corpus Augmentation for Sign Language Translation via LLM-Guided Video Stitching},
   author  = {Robotka, Zsolt and R{\'a}k, {\'A}d{\'a}m and Al-Afandi, Jalal and Horv{\'a}th, Andr{\'a}s and Cserey, Gy{\"o}rgy},
   year    = {2026},
-  note    = {arXiv preprint arXiv:XXXX.XXXXX},
-  url     = {https://arxiv.org/abs/XXXX.XXXXX},
+  note    = {arXiv preprint arXiv:2606.11925},
+  url     = {https://arxiv.org/abs/2606.11925},
 }
 ```
 
